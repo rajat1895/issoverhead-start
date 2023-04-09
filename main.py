@@ -3,8 +3,8 @@ import time
 import requests
 from datetime import datetime
 
-MY_EMAIL = "rajat1895@gmail.com"
-MY_PASSWORD = ""
+MY_EMAIL = "" #enter email address
+MY_PASSWORD = "" #enter password
 MY_LAT = 51.507351
 MY_LONG = -0.127758
 URL = "http://api.open-notify.org/iss-now.json"
